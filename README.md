@@ -56,3 +56,5 @@ node nodailio.js -h
 RELEASE DATE: Apr 1, 2018
 
 RELEASE VERSION: FINAL
+
+*Thanks for sailing Nodailio!*
